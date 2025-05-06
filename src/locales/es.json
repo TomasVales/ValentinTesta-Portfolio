@@ -1,0 +1,103 @@
+{
+    "hero.title": "Valentin",
+    "hero.subtitle": "Analista y Científico de Datos",
+    "hero.description": "Apasionado por el análisis de datos y la toma de decisiones basadas en evidencia. Combino habilidades en Python, SQL, Power BI y Excel con una sólida base estadística. Busco generar impacto real mediante insights claros y soluciones eficientes.",
+    "hero.experience": "Experiencia",
+    "hero.cv": "Descargar CV",
+
+    "navbar.home": "Inicio",
+    "navbar.about": "Sobre Mí",
+    "navbar.projects": "Proyectos",
+    "navbar.contact": "Contacto",
+
+    "projects": {
+"title": "Mis Proyectos",
+"description": "Estos son mis tres proyectos principales desarrollados durante el bootcamp de Henry. Los primeros dos proyectos fueron realizados de manera individual, donde tuve la oportunidad de aplicar mis conocimientos en ciencia de datos desde la etapa inicial de comprensión y procesamiento de datos hasta el análisis avanzado y la visualización. El tercer proyecto fue llevado a cabo en colaboración con un equipo de cinco integrantes, en el cual trabajamos de manera ágil y efectiva, implementando técnicas de análisis y modelado para resolver problemas complejos de negocios.",
+"view": "Ver Proyecto",
+"p1": {
+    "title": "Sistema de Recomendación de Películas",
+    "desc": "Desarrollo de una API utilizando FastAPI que ofrece funcionalidades relacionadas con un sistema de recomendación de películas. La API permite realizar diversas consultas sobre datos de películas, actores y directores, y cuenta con un sistema de recomendación basado en la similitud de las películas."
+},
+"p2": {
+    "title": "Análisis de Datos para una Empresa de Telecomunicaciones",
+    "desc": "Enfoque en el análisis de datos para una empresa de telecomunicaciones, empleando herramientas y técnicas de análisis de datos para obtener insights significativos sobre el acceso a internet y la evolución de las conexiones. Se utiliza Python para el procesamiento de datos y Power BI para la visualización de indicadores clave de rendimiento (KPI)."
+},
+"p3": {
+    "title": "Google y Yelp",
+    "desc": "Contexto: Un inversor nos contrató para realizar un análisis de mercado y ofrecerle diferentes propuestas de negocios para invertir su capital en Filadelfia, USA. Utilizamos reseñas obtenidas de Yelp y Google Maps para determinar el mejor rubro y las mejores ubicaciones para nuevos locales."
+}
+},
+
+    "about.title": "Sobre Mí",
+    "about.p1": "Soy un profesional en Ciencia de Datos con una sólida base en análisis y modelado. Desarrollé proyectos de alto impacto como un sistema de recomendación de películas, análisis de datos para una empresa de telecomunicaciones y un proyecto de reseñas usando datos de Google y Yelp — todos enfocados en entregar información accionable.",
+    "about.p2": "Mi formación incluye habilidades avanzadas en Python, Power BI y SQL, complementadas con análisis estadístico, modelado de datos y storytelling — esenciales para comunicar resultados. Valoro el trabajo en equipo, la gestión de proyectos y me destaco por aprender rápido y ser autodidacta. Estoy en constante mejora para afrontar nuevos desafíos en el mundo de los datos.",
+
+    "projects.title": "Mis Proyectos",
+    "projects.description": "Estos son mis tres proyectos principales desarrollados durante el bootcamp de Henry. Los dos primeros fueron individuales aplicando todo el ciclo de ciencia de datos, y el tercero en equipo bajo metodología ágil.",
+
+    "project1.title": "Sistema de Recomendación de Películas",
+    "project1.description": "Desarrollo de una API con FastAPI que ofrece funcionalidades para un sistema de recomendación. Incluye consultas y sugerencias basadas en similitud.",
+    "project2.title": "Análisis de Datos para Empresa de Telecomunicaciones",
+    "project2.description": "Análisis para una empresa de telecomunicaciones utilizando Python y Power BI, revelando métricas clave sobre el acceso a internet y evolución de conexiones.",
+    "project3.title": "Análisis de Reseñas de Google y Yelp",
+    "project3.description": "Análisis de mercado con reseñas de Yelp y Google Maps en Filadelfia para ayudar a inversores a encontrar industrias y ubicaciones ideales.",
+
+    "experience.title": "Experiencia",
+    "experience.charles.title": "Pizzería Charle's",
+    "experience.charles.date": "2018 - Presente",
+    "experience.charles.description": "Negocio familiar con más de 40 años de trayectoria, ubicado en Nueva Córdoba. Charle’s es una pizzeria que cuenta con una gran variedad de comidas caseras, ricas y abundantes para estudiantes, trabajadores y familias. ",
+    "experience.charles.tasks": "Atención al público (presencial y telefónica), manejo de caja, control de stock, trato con proveedores y empleados, preparación de pedidos para el cadete, ayuda en finanzas, ayudante de cocina y delivery",
+
+    "education.title": "Educación",
+    "skills.title": "Habilidades",
+
+    "education": {
+  "title": "Educación",
+  "utn": {
+    "title": "Universidad Tecnológica Nacional – UTN-FRC",
+    "subtitle": "Ingeniería en Sistemas – Primer Año (En curso)"
+  },
+  "henry": {
+    "title": "Bootcamp Henry (Completado)",
+    "subtitle": "Programa intensivo de más de 800 horas en Ciencia de Datos",
+    "date": "Inicio: 20/05/2024 • Fin: 04/10/2024"
+  },
+  "additional": {
+    "title": "Formación Adicional",
+    "ypp": {
+      "title": "Yo Puedo Programar (2021)",
+      "point1": "Programa basado en HTML, CSS y JavaScript",
+      "point2": "Dictado por Junior Achievement y Microsoft"
+    },
+    "ae": {
+      "title": "Aprender a Emprender (2022)",
+      "point1": "Enfocado en emprendimiento y gestión empresarial",
+      "point2": "Dictado por Junior Achievement"
+    }
+  }
+},
+
+    "contact.title": "Contacto Directo",
+    "contact.subtitle": "Disponible para oportunidades profesionales y colaboraciones.",
+    "contact.email": "Correo electrónico",
+    "contact.phone": "Teléfono",
+    "contact.linkedin": "LinkedIn",
+    "contact.location": "Ubicación",
+
+    "skills": {
+  "title": "Stack y Habilidades Tecnológicas",
+  "languages": "Lenguajes y Consultas:",
+  "data": "Manipulación y Visualización de Datos:",
+  "databases": "Bases de Datos:",
+  "bigdata": "Big Data:",
+  "bi": "Business Intelligence:",
+  "tools": "Herramientas:",
+  "lang": "Idiomas:",
+  "langList": "Español (Nativo) - Inglés (Intermedio)"
+},
+
+    
+
+    "footer.rights": "© 2025 Valentín Testa. Todos los derechos reservados.",
+    "footer.dev": "Desarrollado por KIAD"
+}
