@@ -1,0 +1,101 @@
+{
+    "hero.title": "Valentin",
+    "hero.subtitle": "Data Analyst & Scientist",
+    "hero.description": "Passionate about data analysis and evidence-based decision-making, I combine skills in Python, SQL, Power BI, and Excel with a strong foundation in statistics. I aim to create real impact through clear insights and efficient solutions.",
+    "hero.experience": "Experience",
+    "hero.cv": "Download CV",
+
+    "navbar.home": "Home",
+    "navbar.about": "About Me",
+    "navbar.projects": "Projects",
+    "navbar.contact": "Contact Me",
+
+    "projects": {
+  "title": "My Projects",
+  "description": "These are my three main projects developed during the Henry bootcamp. The first two were individual projects, where I had the opportunity to apply my data science knowledge from the initial stages of data understanding and processing to advanced analysis and visualization. The third project was carried out in collaboration with a team of five members, where we worked in an agile and effective manner, implementing analysis and modeling techniques to solve complex business problems.",
+  "view": "View Project",
+  "p1": {
+    "title": "Movie Recommendation System",
+    "desc": "Development of an API using FastAPI that provides functionalities related to a movie recommendation system. The API allows various queries on movie, actor, and director data, and includes a recommendation system based on movie similarity."
+  },
+  "p2": {
+    "title": "Data Analysis for a Telecommunications Company",
+    "desc": "Focused on data analysis for a telecommunications company, using tools and data analysis techniques to gain significant insights into internet access and the evolution of connections. Python was used for data processing, and Power BI for visualizing key performance indicators (KPIs)."
+  },
+  "p3": {
+    "title": "Google and Yelp",
+    "desc": "Context: An investor hired us to conduct a market analysis and offer different business proposals for investment. We used reviews from Yelp and Google Maps in Philadelphia, USA to determine the best industry and ideal locations for opening new local businesses."
+  }
+},
+
+    "about.title": "About Me",
+    "about.p1": "I'm a Data Science professional with a solid background in data analysis and modeling. I’ve developed high-impact projects such as a Movie Recommendation System, Data Analysis for a Telecommunications Company, and a Review Analysis Project using Google and Yelp data — all focused on delivering actionable insights.",
+    "about.p2": "My training includes advanced skills in Python, Power BI, and SQL, complemented by a strong foundation in statistical analysis, data modeling, and storytelling — essential for communicating insights effectively. I value teamwork and project management, and I'm known for being a quick learner and self-taught. I'm continuously improving to tackle new challenges in the data world.",
+
+    "projects.title": "My Projects",
+    "projects.description": "These are my three main projects developed during the Henry bootcamp. The first two were individual projects where I applied my data science knowledge end-to-end. The third was developed with a team of five people under an agile methodology.",
+
+    "project1.title": "Movie Recommendation System",
+    "project1.description": "Development of an API using FastAPI that provides functionalities related to a movie recommendation system. Includes queries and similarity-based suggestions.",
+    "project2.title": "Data Analysis for a Telecommunications Company",
+    "project2.description": "Analysis for a telecom company using Python and Power BI to reveal key metrics on internet access and connection evolution.",
+    "project3.title": "Google and Yelp Review Analysis",
+    "project3.description": "Market analysis using Yelp and Google Maps reviews in Philadelphia to help investors find ideal industries and locations.",
+
+    "experience.title": "Experience",
+    "experience.charles.title": "Pizzeria Charle's",
+    "experience.charles.date": "2018 - Present",
+    "experience.charles.description": "Family business with over 40 years of experience, located in Nueva Córdoba. Charle’s is a pizzeria offering a wide variety of homemade, tasty, and generous meals.",
+    "experience.charles.tasks": "Customer service, phone service, cashier, stock control, supplier and staff coordination, order prep, finance support, kitchen help, and delivery tasks.",
+
+    "education.title": "Education",
+    "skills.title": "Skills",
+
+    "education": {
+  "title": "Education",
+  "utn": {
+    "title": "Universidad Tecnológica Nacional – UTN-FRC",
+    "subtitle": "Systems Engineering – First Year (In Progress)"
+  },
+  "henry": {
+    "title": "Henry Bootcamp (Completed)",
+    "subtitle": "+800-hour intensive program in Data Science",
+    "date": "Start: 20/05/2024 • End: 04/10/2024"
+  },
+  "additional": {
+    "title": "Additional Training",
+    "ypp": {
+      "title": "Yo Puedo Programar (2021)",
+      "point1": "Program based on HTML, CSS, and JavaScript",
+      "point2": "Delivered by Junior Achievement and Microsoft"
+    },
+    "ae": {
+      "title": "Aprender a Emprender (2022)",
+      "point1": "Focused on entrepreneurship and business management",
+      "point2": "Delivered by Junior Achievement"
+    }
+  }
+},
+
+    "skills": {
+  "title": "Stack & Technological Skills",
+  "languages": "Languages & Queries:",
+  "data": "Data Manipulation & Visualization:",
+  "databases": "Databases:",
+  "bigdata": "Big Data:",
+  "bi": "Business Intelligence:",
+  "tools": "Tools:",
+  "lang": "Languages:",
+  "langList": "Spanish (Native) – English (Intermediate)"
+},
+
+    "contact.title": "Contact Direct",
+    "contact.subtitle": "Available for professional opportunities and collaborations",
+    "contact.email": "E-mail",
+    "contact.phone": "Phone",
+    "contact.linkedin": "LinkedIn",
+    "contact.location": "Location",
+
+    "footer.rights": "© 2025 Valentin Testa. All rights reserved.",
+    "footer.dev": "Developed by KIAD"
+}
