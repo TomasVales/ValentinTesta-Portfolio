@@ -7,7 +7,11 @@ const Hero = () => {
   const { t } = useTranslation();
 
   return (
-    <section id="home" className="relative h-screen flex items-center justify-center text-white bg-black overflow-hidden px-4">
+    <section
+      id="home"
+      className="relative h-screen flex items-center justify-center text-white bg-black overflow-hidden px-4 pt-20"
+    >
+
       <Aurora
         colorStops={["#dc2626", "#db2777", "#7c3aed"]}
         blend={0.5}

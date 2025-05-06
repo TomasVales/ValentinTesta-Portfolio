@@ -1,9 +1,13 @@
 .aurora-container {
     width: 100%;
     height: calc(100% + 80px);
+    /* ✅ cubre un poco más arriba */
     position: absolute;
     top: -80px;
+    /* ✅ sube el efecto para que se vea completo */
     inset: 0;
     z-index: 0;
+    /* ✅ detrás del NavBar */
     pointer-events: none;
+    /* ✅ no bloquea clics */
 }
